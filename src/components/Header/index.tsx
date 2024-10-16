@@ -63,8 +63,7 @@ const Header = () => {
                 <Image
                   src={logo} // Use the imported logo image
                   alt="Logo"
-                  width={75} // Set the width of the logo
-                  height={25} // Set the height of the logo
+                  width={120} // Set the width of the logo
                   priority
                    // Margin around the logo
                 />
