@@ -34,7 +34,7 @@ export default function Home() {
       <Services />
       <Contact />
       <Faq />
-      <HomeBlogSection posts={posts} />
+      {/* <HomeBlogSection posts={posts} /> */}
     </main>
   
   );

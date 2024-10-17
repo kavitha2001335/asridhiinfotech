@@ -59,7 +59,7 @@ const Services = () => {
           
           <div className="relative overflow-hidden rounded-lg group">
             <Image
-              src={img15}
+              src={img13}
               alt="Executive Search"
               layout="responsive"
               width={500}

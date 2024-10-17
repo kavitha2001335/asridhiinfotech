@@ -131,7 +131,7 @@ Partner with us for tailored staffing solutions that drive success.
               </ul>
             </div>
           </div>
-          <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-3/12 xl:w-2/12">
+          {/* <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-3/12 xl:w-2/12">
             <div className="mb-10 w-full">
               <h4 className="mb-9 text-lg font-semibold text-white">
                 Features
@@ -166,9 +166,9 @@ Partner with us for tailored staffing solutions that drive success.
                 </li>
               </ul>
             </div>
-          </div>
+          </div> */}
           
-          <div className="w-full px-4 md:w-2/3 lg:w-6/12 xl:w-3/12">
+          {/* <div className="w-full px-4 md:w-2/3 lg:w-6/12 xl:w-3/12">
             <div className="mb-10 w-full">
               <h4 className="mb-9 text-lg font-semibold text-white">
                 Useful Links
@@ -210,7 +210,7 @@ Partner with us for tailored staffing solutions that drive success.
               
             </div>
 
-          </div>
+          </div> */}
           
             
           
@@ -223,7 +223,7 @@ Partner with us for tailored staffing solutions that drive success.
             <div className="w-full px-4 md:w-2/3 lg:w-1/2">
               <div className="my-1">
                 <div className="-mx-3 flex items-center justify-center md:justify-start">
-                  <a
+                  {/* <a
                     href="/#"
                     className="px-3 text-base text-gray-7 hover:text-white hover:underline"
                   >
@@ -240,7 +240,7 @@ Partner with us for tailored staffing solutions that drive success.
                     className="px-3 text-base text-gray-7 hover:text-white hover:underline"
                   >
                     Terms of service
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </div>
