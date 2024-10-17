@@ -16,7 +16,7 @@ const CallToAction = () => {
                   </span>
                 </h2>
                 <p className="mx-auto mb-6 max-w-[515px] text-base leading-[1.5] text-white">
-                Unlock your workforce's full potential with our dedicated staffing solutions tailored to meet your unique business needs. From specialized talent sourcing to seamless payroll management, we empower your growth with expertise and efficiency.
+                Unlock your workforces full potential with our dedicated staffing solutions tailored to meet your unique business needs. From specialized talent sourcing to seamless payroll management, we empower your growth with expertise and efficiency.
                 </p>
                 <Link
                   href="/"
