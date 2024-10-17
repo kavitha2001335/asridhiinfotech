@@ -28,7 +28,7 @@ const Contact = () => {
                       How Can We Help?
                     </h3>
                     <p className="text-base text-body-color dark:text-dark-6">
-                     asridhiinfotech@gmail.com
+                     info@asridhiinfotech.com
                     </p>
                   </div>
                 </div>

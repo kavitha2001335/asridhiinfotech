@@ -30,10 +30,10 @@ const Hero = () => {
             <h1 className="text-white text-4xl md:text-6xl font-light mb-4 md:mb-10 uppercase tracking-wider animate-slide-up">
               Asridhi InfoTech
             </h1>
-            <p className="max-w-[400px] md:max-w-[600px] text-base font-medium text-amber-500 sm:text-lg sm:leading-[1.44] mb-2">
+            <p className="max-w-[400px] md:max-w-[600px] text-base font-medium text-amber-500 sm:text-lg sm:leading-[1.44] mb-2"style={{ color: '#FFFF99' }}>
               We understand that building a successful business starts with assembling the right team.
             </p>
-            <p className="max-w-[400px] md:max-w-[600px] text-base font-medium text-amber-500 sm:text-lg sm:leading-[1.44] mb-9">
+            <p className="max-w-[400px] md:max-w-[600px] text-base font-medium text-amber-500 sm:text-lg sm:leading-[1.44] mb-9"style={{ color: '#FFFF99' }}>
               As a premier staffing and recruiting company, we specialize in connecting businesses with top-tier talent.
             </p>
 

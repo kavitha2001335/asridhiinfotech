@@ -23,12 +23,12 @@ const Footer = () => {
               </Link>
               <p className="mb-8 max-w-[270px] text-base text-gray-7 font-bold">
                 Connect with Top Talent, Empower Your Business.
-Partner with us for tailored staffing solutions that drive success.
+                Partner with us for tailored staffing solutions that drive success.
               </p>
               <div className="-mx-3 flex items-center">
                 <a
                   aria-label="social link"
-                  href="/#"
+                  href="https://www.facebook.com/profile.php?id=61567329028552"
                   className="px-3 text-gray-7 hover:text-white"
                 >
                   <svg
@@ -44,7 +44,7 @@ Partner with us for tailored staffing solutions that drive success.
                 </a>
                 <a
                   aria-label="social link"
-                  href="/#"
+                  href="https://x.com/asridhi2024"
                   className="px-3 text-gray-7 hover:text-white"
                 >
                   <svg
@@ -60,7 +60,7 @@ Partner with us for tailored staffing solutions that drive success.
                 </a>
                 <a
                   aria-label="social link"
-                  href="/#"
+                  href="https://www.instagram.com/asridhiinfotech/?next=%2F"
                   className="px-3 text-gray-7 hover:text-white"
                 >
                   <svg
@@ -95,9 +95,9 @@ Partner with us for tailored staffing solutions that drive success.
               </div>
             </div>
           </div>
-          <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
-            <div className="mb-10 w-full">
-              <h4 className="mb-9 text-lg font-semibold text-white">
+          <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-4/12 xl:w-3/12">
+            <div className="mb-10 w-full mt-12">
+              <h4 className="mb-10 text-lg font-semibold text-white">
                 About Us
               </h4>
               <ul>
@@ -114,7 +114,15 @@ Partner with us for tailored staffing solutions that drive success.
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-gray-600"
                   >
-                    Features
+                    Services
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="#"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-gray-600"
+                  >
+                    About
                   </a>
                 </li>
                 <li>
@@ -122,11 +130,16 @@ Partner with us for tailored staffing solutions that drive success.
                     href="/#"
                     className="mb-3 inline-block text-base text-gray-7 hover:text-gray-600"
                   >
-                    About
+                    Contact
                   </a>
                 </li>
                 <li>
-                
+                  <a
+                    href="https://www.google.com/maps/dir//3rd+Floor,+Balaji+Tower,+11,+Ramakrishna+Rd,+Seerangapalayam,+Salem,+Tamil+Nadu+636007/@11.6685996,78.0687761,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3babf10df04ca91f:0xa646d7cbbb801658!2m2!1d78.151178!2d11.6686113?entry=ttu&g_ep=EgoyMDI0MTAxNC4wIKXMDSoASAFQAw%3D%3D"
+                    className="mb-3 inline-block text-base text-gray-7 hover:text-gray-600"
+                  >
+                    Address 
+                  </a>
                 </li>
               </ul>
             </div>
